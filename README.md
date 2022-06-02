@@ -1,2 +1,2 @@
-# c++-test
+# c++ test
 class test
